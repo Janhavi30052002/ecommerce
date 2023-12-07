@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Product 1",
+    "slug": "product-1",
+    "description": "Description of Product 1",
+    "price": 29.99,
+    "category": "categoryId123",
+    "quantity": 10,
+    "photo": {
+      "data": "https://shorturl.at/bjrvU",
+      "contentType": "image/*"
+    },
+    "shipping": true
+  },
+  {
+    "name": "Product 2",
+    "slug": "product-2",
+    "description": "Description of Product 2",
+    "price": 39.99,
+    "category": "categoryId456",
+    "quantity": 15,
+    "photo": {
+      "data": "https://shorturl.at/bjrvU",
+      "contentType": "image/*"
+    },
+    "shipping": false
+  }
+]
